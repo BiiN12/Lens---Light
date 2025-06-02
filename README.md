@@ -74,10 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Images from [Unsplash](https://unsplash.com)
 - Icons from [Lucide Icons](https://lucide.dev)
 
-## 📞 Contact
-
-For any inquiries, please reach out through the contact form on the website or email at contact@lensandlight.com
-
 ---
 
 Made with ❤️ and AI assistance
