@@ -29,13 +29,13 @@ A modern, responsive photography portfolio website built with React and Tailwind
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/lens-and-light.git
+git clone https://github.com/BiiN12/lens---light.git
 ```
 
 2. Install dependencies:
 
 ```bash
-cd lens-and-light
+cd lens---light
 npm install
 ```
 
